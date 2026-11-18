@@ -1,0 +1,381 @@
+material,state
+iron nail,solid
+steel plate,solid
+gold ring,solid
+silver coin,solid
+copper wire,solid
+wooden table,solid
+wooden stick,solid
+pebble,solid
+brick wall,solid
+glass bottle,solid
+plastic bottle,solid
+rubber ball,solid
+paper plate,solid
+notebook,solid
+pencil box,solid
+school bag,solid
+toy block,solid
+candy,solid
+biscuit,solid
+cookie,solid
+apple,solid
+banana,solid
+carrot,solid
+potato,solid
+wooden door,solid
+steel spoon,solid
+iron box,solid
+plastic toy,solid
+chalk piece,solid
+tile,solid
+towel,solid
+shirt,solid
+shoe,solid
+tyre,solid
+table,solid
+chair,solid
+bed,solid
+hammer,solid
+scissors,solid
+bat,solid
+ruler,solid
+stick,solid
+rope,solid
+bag,solid
+box,solid
+ball,solid
+toy car,solid
+cake,solid
+bread slice,solid
+mud brick,solid
+ice block,solid
+frozen water,solid
+iceberg,solid
+glacier,solid
+icicle,solid
+metal,solid
+stone wall,solid
+cup,solid
+plate,solid
+bucket,solid
+window glass,solid
+diamond ring,solid
+computer,solid
+laptop,solid
+mobile,solid
+phone,solid
+mobile phone,solid
+television,solid
+tv,solid
+remote,solid
+keyboard,solid
+mouse,solid
+monitor,solid
+printer,solid
+camera,solid
+headphones,solid
+charger,solid
+battery,solid
+bulb,solid
+fan,solid
+table lamp,solid
+clock,solid
+watch,solid
+calculator,solid
+tablet,solid
+radio,solid
+car,solid
+bus,solid
+truck,solid
+bicycle,solid
+cycle,solid
+scooter,solid
+motorcycle,solid
+train,solid
+aeroplane,solid
+ship,solid
+boat,solid
+helicopter,solid
+bottle,solid
+water bottle,solid
+milk bottle,solid
+jug,solid
+glass cup,solid
+mug,solid
+bowl,solid
+pot,solid
+pan,solid
+knife,solid
+fork,solid
+tray,solid
+lunch box,solid
+pen,solid
+sharpener,solid
+marker,solid
+scale,solid
+compass box,solid
+stapler,solid
+tape,solid
+glue stick,solid
+scissor,solid
+file,solid
+folder,solid
+desk,solid
+bench,solid
+sofa,solid
+cupboard,solid
+shelf,solid
+mirror,solid
+door,solid
+window,solid
+wall,solid
+roof,solid
+floor,solid
+gate,solid
+fence,solid
+bridge,solid
+road,solid
+mountain,solid
+hill,solid
+tree,solid
+leaf,solid
+flower,solid
+grass,solid
+seed,solid
+fruit,solid
+vegetable,solid
+mango,solid
+orange,solid
+grapes,solid
+tomato,solid
+onion,solid
+pizza,solid
+burger,solid
+sandwich,solid
+chapati,solid
+roti,solid
+noodles,solid
+pasta,solid
+egg,solid
+chicken,solid
+fish,solid
+cheese,solid
+curd rice,solid
+ice cream,solid
+popsicle,solid
+lollipop,solid
+chocolate bar,solid
+candy cane,solid
+biscuit packet,solid
+pants,solid
+dress,solid
+socks,solid
+cap,solid
+hat,solid
+umbrella,solid
+jacket,solid
+sweater,solid
+gloves,solid
+belt,solid
+watch strap,solid
+doll,solid
+teddy bear,solid
+kite,solid
+puzzle,solid
+lego,solid
+cricket bat,solid
+football,solid
+basketball,solid
+skipping rope,solid
+statue,solid
+pot clay,solid
+earthen pot,solid
+matchstick,solid
+candle,solid
+nail,solid
+screw,solid
+bolt,solid
+wire,solid
+chain,solid
+ring,solid
+necklace,solid
+bangle,solid
+spectacles,solid
+toothbrush,solid
+comb,solid
+soap bar,solid
+sponge cloth,solid
+carpet,solid
+curtain,solid
+pillow,solid
+blanket,solid
+dust,solid
+ash,solid
+gravel,solid
+wood plank,solid
+log,solid
+bamboo,solid
+straw,solid
+hay,solid
+cardboard,solid
+newspaper,solid
+envelope,solid
+balloon skin,solid
+orange juice,liquid
+apple juice,liquid
+mango juice,liquid
+cold coffee,liquid
+green tea,liquid
+black tea,liquid
+rose water,liquid
+soda water,liquid
+mineral water,liquid
+drinking water,liquid
+river water,liquid
+tap water,liquid
+lake water,liquid
+salt water,liquid
+sugar water,liquid
+baby oil,liquid
+olive oil,liquid
+mustard oil,liquid
+coconut oil,liquid
+sunflower oil,liquid
+engine oil,liquid
+hair oil,liquid
+lemon water,liquid
+buttermilk,liquid
+cow milk,liquid
+almond milk,liquid
+hand wash,liquid
+dish wash liquid,liquid
+paint,liquid
+nail polish,liquid
+medicine syrup,liquid
+cough syrup,liquid
+tomato juice,liquid
+fruit juice,liquid
+sugarcane juice,liquid
+tender coconut water,liquid
+body lotion,liquid
+liquid,liquid
+rain,liquid
+dew,liquid
+tears,liquid
+sweat,liquid
+saliva,liquid
+gasoline,liquid
+fuel,liquid
+spirit,liquid
+acid,liquid
+milkshake,liquid
+smoothie,liquid
+broth,liquid
+gravy,liquid
+sauce,liquid
+melted ice cream,liquid
+boiled water,liquid
+warm water,liquid
+cold water,liquid
+ice water,liquid
+lassi,liquid
+cold milk,liquid
+hot coffee,liquid
+boiled milk,liquid
+coconut milk,liquid
+soy milk,liquid
+chocolate milk,liquid
+banana shake,liquid
+pineapple juice,liquid
+grape juice,liquid
+watermelon juice,liquid
+carrot juice,liquid
+herbal tea,liquid
+lime juice,liquid
+nimbu pani,liquid
+sugar syrup,liquid
+maple syrup,liquid
+rose syrup,liquid
+fish oil,liquid
+castor oil,liquid
+palm oil,liquid
+vegetable oil,liquid
+cooking oil,liquid
+face wash,liquid
+mouthwash,liquid
+bath water,liquid
+swimming pool water,liquid
+pond water,liquid
+well water,liquid
+ocean water,liquid
+melted snow,liquid
+wet paint,liquid
+wax melted,liquid
+petrol fuel,liquid
+liquid medicine,liquid
+drops,liquid
+eye drops,liquid
+ink bottle liquid,liquid
+glue liquid,liquid
+bleach,liquid
+floor cleaner,liquid
+detergent liquid,liquid
+toilet cleaner,liquid
+shampoo liquid,liquid
+oxygen gas,gas
+nitrogen gas,gas
+hydrogen gas,gas
+helium gas,gas
+carbon dioxide gas,gas
+lpg gas,gas
+steam from kettle,gas
+fresh air,gas
+cold air,gas
+hot air,gas
+breath air,gas
+marsh gas,gas
+neon gas,gas
+chlorine gas,gas
+ammonia gas,gas
+methane gas,gas
+gas,gas
+vapour,gas
+vapor,gas
+fumes,gas
+gas cylinder,gas
+air in balloon,gas
+air in tyre,gas
+boiling water steam,gas
+kitchen steam,gas
+cooking steam,gas
+hot steam,gas
+bio gas,gas
+gobar gas,gas
+exhaust gas,gas
+smell gas,gas
+gas stove gas,gas
+oxygen cylinder gas,gas
+hydrogen balloon gas,gas
+breath,gas
+wind blowing,gas
+air from fan,gas
+air pump air,gas
+cooking gas leak,gas
+gas from stove,gas
+vapour from tea,gas
+hot vapour,gas
+steam from rice,gas
+steam cooker steam,gas
+carbon dioxide bubbles,gas
+soda gas,gas
+fizz gas,gas
+smell in air,gas
+perfume spray vapour,gas
+helium air,gas
+nitrous oxide,gas
+hydrogen sulphide,gas
+sulphur gas,gas
+fuel gas,gas
+petrol vapour,gas
+cold breath air,gas

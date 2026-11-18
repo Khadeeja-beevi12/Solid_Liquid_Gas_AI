@@ -1,0 +1,66 @@
+{
+ "cloud": {
+  "emoji": "☁️",
+  "text": "Clouds are tiny drops of water and ice floating in the air. They are a tricky mix!"
+ },
+ "fog": {
+  "emoji": "🌫️",
+  "text": "Fog is tiny water drops floating in the air near the ground. It is a tricky mix!"
+ },
+ "mist": {
+  "emoji": "🌫️",
+  "text": "Mist is tiny water drops floating in the air. It is a tricky mix!"
+ },
+ "smoke": {
+  "emoji": "💨",
+  "text": "Smoke is tiny solid bits and hot gas mixed together. It is a tricky mix!"
+ },
+ "foam": {
+  "emoji": "🫧",
+  "text": "Foam is gas bubbles trapped inside a liquid or solid. It is a tricky mix!"
+ },
+ "jelly": {
+  "emoji": "🍮",
+  "text": "Jelly is mostly water held in a wobbly solid. It is a tricky one!"
+ },
+ "slime": {
+  "emoji": "🟢",
+  "text": "Slime flows slowly like a liquid but holds together like a solid. Tricky!"
+ },
+ "toothpaste": {
+  "emoji": "🪥",
+  "text": "Toothpaste is thick. It flows when you squeeze it but keeps its shape. Tricky!"
+ },
+ "ghee": {
+  "emoji": "🧈",
+  "text": "Ghee is solid when cool and turns liquid when warm. It depends on the temperature!"
+ },
+ "curd": {
+  "emoji": "🥣",
+  "text": "Curd is thick and soft. It is hard to say, so ask your teacher!"
+ },
+ "dough": {
+  "emoji": "🥟",
+  "text": "Dough is soft and sticky. It is hard to say, so ask your teacher!"
+ },
+ "fire": {
+  "emoji": "🔥",
+  "text": "Fire is not a solid, liquid or gas. It is hot glowing gas and burning stuff. Tricky!"
+ },
+ "flame": {
+  "emoji": "🔥",
+  "text": "A flame is not a solid, liquid or gas. It is hot glowing gas. Tricky!"
+ },
+ "light": {
+  "emoji": "💡",
+  "text": "Light is not matter at all. It is energy, so it is not a solid, liquid or gas!"
+ },
+ "sound": {
+  "emoji": "🔊",
+  "text": "Sound is not matter. It is energy that travels, so it is not a solid, liquid or gas!"
+ },
+ "shadow": {
+  "emoji": "🌑",
+  "text": "A shadow is not matter. It is just a place where light is blocked!"
+ }
+}

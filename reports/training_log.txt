@@ -1,0 +1,47 @@
+
+=== MODEL 1: property model (temperature, melting point, boiling point, density) ===
+Cleaning: 115 rows in -> 115 rows out
+Missing values (will be imputed): {'melting_point_c': 20, 'boiling_point_c': 40}
+Train rows: 86 | Test rows: 29
+5-fold x 3 repeats cross-validation on the training data (macro averages):
+  LogisticRegression         acc=0.969  precision=0.974  recall=0.972  f1=0.972
+  KNN                        acc=0.914  precision=0.931  recall=0.915  f1=0.916
+  SVM                        acc=0.965  precision=0.973  recall=0.966  f1=0.968
+  DecisionTree               acc=0.949  precision=0.965  recall=0.951  f1=0.954
+  RandomForest               acc=0.977  precision=0.985  recall=0.975  f1=0.978
+
+Best model by cross-validated F1: RandomForest
+
+Final TEST-set scores (data the model never saw):
+  RandomForest               acc=0.966  precision=0.967  recall=0.976  f1=0.970
+              precision    recall  f1-score   support
+
+       solid       1.00      0.93      0.96        14
+      liquid       0.90      1.00      0.95         9
+         gas       1.00      1.00      1.00         6
+
+    accuracy                           0.97        29
+   macro avg       0.97      0.98      0.97        29
+weighted avg       0.97      0.97      0.97        29
+
+
+=== MODEL 2: name model (reads the letters of the word) ===
+Names: 495 | Train: 371 | Test: 124
+  TF-IDF + LogReg C=1        acc=0.837  precision=0.853  recall=0.812  f1=0.826
+  TF-IDF + LogReg C=5        acc=0.827  precision=0.837  recall=0.806  f1=0.816
+  TF-IDF + LogReg C=20       acc=0.824  precision=0.834  recall=0.803  f1=0.813
+
+Final TEST-set scores (C=1):
+  name model                 acc=0.871  precision=0.894  recall=0.856  f1=0.870
+              precision    recall  f1-score   support
+
+       solid       0.85      0.94      0.89        70
+      liquid       0.88      0.68      0.77        34
+         gas       0.95      0.95      0.95        20
+
+    accuracy                           0.87       124
+   macro avg       0.89      0.86      0.87       124
+weighted avg       0.87      0.87      0.87       124
+
+
+Saved: models/*.joblib, reports/metrics.json, reports/*.png
